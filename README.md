@@ -19,6 +19,7 @@ Choose the installer for your operating system:
 | **Windows** | x64 (64-bit) | `.exe` (NSIS Installer) | [**Download for Windows**](https://github.com/tejasundeep/polyswitch-softwares/releases/download/v1.0.0/Polyswitch-1.0.0-setup.exe) |
 | **macOS** | Apple Silicon / Intel | `.dmg` (Disk Image) | *Coming Soon* |
 | **Linux** | x64 (64-bit) | `.deb` (Debian / Ubuntu) | [**Download for Linux (.deb)**](https://github.com/tejasundeep/polyswitch-softwares/releases/download/v1.0.0/Polyswitch-1.0.0-amd64.deb) |
+| **Linux** | x64 (64-bit) | `.AppImage` (Universal Linux) | [**Download for Linux (.AppImage)**](https://github.com/tejasundeep/polyswitch-softwares/releases/download/v1.0.0/Polyswitch-1.0.0-x86_64.AppImage) |
 
 You can also view all releases and checksums on the [GitHub Releases Page](https://github.com/tejasundeep/polyswitch-softwares/releases).
 
